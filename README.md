@@ -7,7 +7,6 @@ This project is a Nike landing page built using React JS and Tailwind CSS. It ai
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-<!-- - [Contributing](#contributing) -->
 - [Farewell and Take Care](#farewell-and-take-care)
 
 ## Features  🎉
@@ -32,8 +31,6 @@ cd nike-landing-page
 
 ```
 npm install
- or
-yarn install
 ```
 
 This will start the development server and open the landing page in your default web browser. You can then interact with the page and explore its features.
@@ -43,5 +40,5 @@ Contributions are welcome! If you have any ideas for improvements, new features,
 
 ## Farewell and Take Care 🌟
 
-Thank you for checking out this project! We hope you find it useful and enjoyable. If you have any questions or feedback, don't hesitate to reach out. Goodbye and take care! 👋
+Thank you for checking out this project! I hope you find it useful and enjoyable. If you have any questions or feedback, don't hesitate to reach out. Goodbye and take care! 👋
 
